@@ -5,7 +5,7 @@ artists = ["Travis Scott", "Lady Gaga", "Drake"]
 tvtower = ("-15.699244", "-47.829556" )
 
 # 3 - Crie um dicionário contendo diferentes atributos sobre você: altura, cor favorita, autor favorito etc
-about_me = {"weight":
+about_me = {"height":
             "1.73",
             "favorite_color":
             "gray",
